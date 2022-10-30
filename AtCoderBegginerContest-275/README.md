@@ -1,1 +1,0 @@
-# AtCoderBeginnerContest-274
